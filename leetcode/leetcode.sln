@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode", "leetcode\leetcode.vcxproj", "{BB5724F5-5DA3-4B24-B642-C4FE5712B5CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB5724F5-5DA3-4B24-B642-C4FE5712B5CE}.Debug|x64.ActiveCfg = Debug|x64
+		{BB5724F5-5DA3-4B24-B642-C4FE5712B5CE}.Debug|x64.Build.0 = Debug|x64
+		{BB5724F5-5DA3-4B24-B642-C4FE5712B5CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB5724F5-5DA3-4B24-B642-C4FE5712B5CE}.Debug|x86.Build.0 = Debug|Win32
+		{BB5724F5-5DA3-4B24-B642-C4FE5712B5CE}.Release|x64.ActiveCfg = Release|x64
+		{BB5724F5-5DA3-4B24-B642-C4FE5712B5CE}.Release|x64.Build.0 = Release|x64
+		{BB5724F5-5DA3-4B24-B642-C4FE5712B5CE}.Release|x86.ActiveCfg = Release|Win32
+		{BB5724F5-5DA3-4B24-B642-C4FE5712B5CE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {894A8779-ACF0-491D-AB14-DD9F8F5AAA59}
+	EndGlobalSection
+EndGlobal
