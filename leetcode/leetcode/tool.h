@@ -18,4 +18,17 @@ public:
 		}
 		cout << endl;
 	}
+
+	void show2dVector(vector<T>& vec)
+	{
+		for (auto v : vec)
+		{
+			for (auto i : v)
+			{
+				cout << i << " ";
+			}
+			cout << endl;
+		}
+		cout << endl;
+	}
 };

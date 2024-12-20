@@ -1,13 +1,12 @@
 #pragma once
 #include <vector>
 #include <unordered_map>
-#include <algorithm>
 #include "tool.h"
 
 using namespace std;
 
 //1.两数之和
-class Solution {
+class Solution1 {
 public:
     //vector<int> twoSum(vector<int>& nums, int target) {
     //    vector<int> res;
@@ -50,9 +49,9 @@ public:
 
 void test1()
 {
-    Solution s;
-    vector<int> nums{ 1,2,3,4,5 };
-    int target = 7;
+    Solution1 s;
+    vector<int> nums{ 11,2,3,41,50 };
+    int target = 52;
     auto res = s.twoSum(nums,target);
     Tool<int> tool;
     tool.show1dVector(res);
